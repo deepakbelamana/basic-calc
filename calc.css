@@ -1,0 +1,27 @@
+.calc-contain{
+  margin: 0px auto;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 20px ;
+}
+input[type=button] {
+  background: lightGray;
+  width: 20%;
+  font-size: 20px;
+  font-weight: 900;
+  border-radius: 7px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+input[type = text] {
+  width: 90%;
+  margin: 5px;
+  font-size: 20px;
+  padding: 10px;
+  border: 2px dotted black;
+}
+/* .hi 
+{
+  background: red;
+} */
